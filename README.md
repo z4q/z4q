@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ruzaini</h1>
 <h3 align="center">A passionate Front-end developer from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3ward&label=Profile%20views&color=0e75b6&style=flat" alt="d3ward" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=z4q&label=Profile%20views&color=0e75b6&style=flat" alt="d3ward" /> </p>
 
 - 🔭 I’m currently working at : CiMB MY
 
