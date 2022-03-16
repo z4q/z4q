@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ruzaini</h1>
 <h3 align="center">A passionate Front-end developer from Malaysia</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z4q&label=Profile%20views&color=0e75b6&style=flat" alt="d3ward" /> 
-
 - 🔭 I’m currently working at : CiMB MY
 
 - 📫 How to reach me **ruzaini@ourtech.my**
