@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Front-end developer from Malaysia</h3>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z4q&label=Profile%20views&color=0e75b6&style=flat" alt="d3ward" /> 
-<br><br>
-  <h5 align="center">🔭 I’m currently working at : CiMB MY<br>📫 How to reach me **ruzaini@ourtech.my**</h5>
+<br>
+  <h5 align="center">🔭 I’m currently working at : CiMB MY<br><br>📫 How to reach me **ruzaini@ourtech.my**</h5>
 
 <br><br>
 <a href='https://ko-fi.com/z4q92' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a><br>
